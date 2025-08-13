@@ -24,13 +24,7 @@ Além disso, uma interface gráfica elegante exibe emojis e animações colorida
 
 ---
 
-## 🎥 Demonstração Visual (Sugestão)
-
-Inclua GIFs ou vídeos para mostrar o projeto em ação!  
-
-- Grave sua montagem com **OBS Studio**.  
-- Crie GIFs animados no **ezgif.com**.  
-- Insira imagens ou GIFs assim:
+## 🎥 Demonstração Visual 
 
 
 
@@ -78,10 +72,7 @@ Execute o script Python para iniciar a detecção e visualização.
 
 
 
-
-## 📜 Licença
-
-Este projeto é aberto e está sob a licença **MIT**.  
+ 
 Sinta-se livre para usar, modificar e compartilhar!
 
 ## 👩‍💻 Sobre a Autora
