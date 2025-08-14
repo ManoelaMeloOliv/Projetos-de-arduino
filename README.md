@@ -22,15 +22,37 @@ Além disso, uma interface gráfica elegante exibe emojis e animações colorida
 4. **Controle dos LEDs:** Arduino acende LEDs proporcionalmente à intensidade do som.
 5. **Interface visual:** Python mostra emojis 😍😢 e uma barra colorida que muda com o volume, numa animação suave e envolvente.
 
+
 ---
 
 ## 🎥 Demonstração Visual 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/RKSI5nP27u8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RKSI5nP27u8)
 
+---
+##🚀 Materiais Utilizados
+
+Para montar este projeto incrível com Arduino, você vai precisar de:
+
+🔌 1 × Arduino Uno (ou compatível) – o cérebro do projeto
+
+🎤 1 × Sensor de Som (KY-037 ou similar) – para captar os batidões da música
+
+💡 7 × LEDs de 5mm (sua cor favorita!) – para criar o show de luzes
+
+📏 7 × Resistores (220 Ω ou 330 Ω) – para proteger os LEDs
+
+🔗 Jumpers (macho-macho ou macho-fêmea) – para conectar tudo
+
+🧩 1 × Protoboard – para facilitar a montagem sem solda
+
+🔌 1 × Cabo USB – para alimentar e programar o Arduino
+
+💻 Computador com Arduino IDE – para carregar o código e ver a mágica acontecer
+
+Dica extra: Se quiser que os LEDs brilhem ainda mais, você pode usar uma fonte externa 5V
 
 ---
-
 ## 🚀 Instruções para Rodar
 
 1. Conecte o Arduino ao computador via USB.
