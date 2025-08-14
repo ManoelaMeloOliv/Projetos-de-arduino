@@ -26,6 +26,7 @@ Além disso, uma interface gráfica elegante exibe emojis e animações colorida
 
 ## 🎥 Demonstração Visual 
 
+[![Assista ao vídeo](https://img.youtube.com/vi/RKSI5nP27u8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RKSI5nP27u8)
 
 
 ---
