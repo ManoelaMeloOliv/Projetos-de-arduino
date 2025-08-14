@@ -30,7 +30,7 @@ Além disso, uma interface gráfica elegante exibe emojis e animações colorida
 [![Assista ao vídeo](https://img.youtube.com/vi/RKSI5nP27u8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RKSI5nP27u8)
 
 ---
-##🚀 Materiais Utilizados
+## 🚀 Materiais Utilizados
 
 Para montar este projeto incrível com Arduino, você vai precisar de:
 
